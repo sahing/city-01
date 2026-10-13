@@ -1,0 +1,6 @@
+{
+  "name": "IntercityWheels Mobility & Bidding Platform",
+  "description": "Comprehensive intercity cab booking, sleeper bus reservations, reverse driver bidding marketplace, and dynamic workflow form orchestrator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
